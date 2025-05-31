@@ -1,0 +1,17 @@
+{
+    "property_id": "FEEDPROP001",
+    "rooms": [
+        {
+            "room_id": "FR101",
+            "date": "2025-09-01",
+            "max_guests": 2,
+            "price": 120.00
+        },
+        {
+            "room_id": "FR101",
+            "date": "2025-09-02",
+            "max_guests": 2,
+            "price": 125.50
+        }
+    ]
+}
