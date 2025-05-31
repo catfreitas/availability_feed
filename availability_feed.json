@@ -1,14 +1,14 @@
 {
-    "property_id": "FEEDPROP0012",
+    "property_id": "FEKL01222",
     "rooms": [
         {
-            "room_id": "FR1012",
+            "room_id": "F012",
             "date": "2025-09-10",
             "max_guests": 2,
             "price": 120.00
         },
         {
-            "room_id": "FR1012",
+            "room_id": "F015",
             "date": "2025-09-11",
             "max_guests": 2,
             "price": 125.50
