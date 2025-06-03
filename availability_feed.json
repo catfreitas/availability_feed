@@ -1,18 +1,30 @@
 {
-    "property_id": "1111",
-    "name": "viana",
+    "property_id": "1414",
+    "name": "Marte",
     "rooms": [
         {
-            "room_id": "F012",
-            "date": "2025-09-10",
+            "room_id": "F112",
+            "date": "2025-06-10",
             "max_guests": 2,
             "price": 120.00
         },
         {
-            "room_id": "F015",
-            "date": "2025-09-11",
+            "room_id": "F112",
+            "date": "2025-06-11",
             "max_guests": 2,
-            "price": 150
+            "price": 150.00
+        },
+        {
+            "room_id": "F112",
+            "date": "2025-06-12",
+            "max_guests": 2,
+            "price": 120.00
+        },
+        {
+            "room_id": "F112",
+            "date": "2025-06-13",
+            "max_guests": 2,
+            "price": 150.00
         }
     ]
 }
